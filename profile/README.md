@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Welcome to CodeCraftersHQ – Where Code Becomes Craftsmanship!
+**Welcome to CodeCraftersHQ – Where Code Becomes Craftsmanship!**
 
 At CodeCraftersHQ, we believe in the power of collaboration, learning, and innovation. 
 

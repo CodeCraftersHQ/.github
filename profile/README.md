@@ -6,7 +6,7 @@ At CodeCraftersHQ, we believe in the power of collaboration, learning, and innov
 
 Our organization is dedicated to providing a platform for junior developers to not only contribute to open-source projects but also elevate their coding skills to top-tier engineers.
 
-## 🤝 Community of Crafters: 
+## 🤝 Community of Coders: 
 
 Join a vibrant and supportive community of fellow developers who share your passion for coding. 
 Our members come from all walks of life, and together, we foster an environment where knowledge is freely shared and collaboration is highly valued.
